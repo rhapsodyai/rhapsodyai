@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🧚‍♀️👋
 
 I'm a Software Engineer doing Web Development, XR  and Gamedev.
 
@@ -9,8 +9,7 @@ I'm a Software Engineer doing Web Development, XR  and Gamedev.
 - 😄 Pronouns: She/her
 
 <!--
-Note: (No longer looking :))
-I’m looking for help with my job search, if you are hiring please feel free to connect with me!
+Note: (No longer searching :))
 Resume: https://registry.jsonresume.org/rhapsodyai (My online resume)
 LinkedIn: https://www.linkedin.com/in/melissaauclaire (feel free to connect with me though I'm more likely to respond if I know you)
 -->
