@@ -8,9 +8,8 @@ I'm a Software Engineer doing Web Development, XR  and Gamedev.
 - 🌱 I’m currently learning - 3D Modeling and Illustration!
 - 😄 Pronouns: She/her
 
-Note:
-
 <!--
+Note: (No longer looking :))
 I’m looking for help with my job search, if you are hiring please feel free to connect with me!
 Resume: https://registry.jsonresume.org/rhapsodyai (My online resume)
 LinkedIn: https://www.linkedin.com/in/melissaauclaire (feel free to connect with me though I'm more likely to respond if I know you)
