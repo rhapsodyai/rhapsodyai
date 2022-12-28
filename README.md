@@ -1,6 +1,6 @@
 ### Hi there 🧚‍♀️👋
 
-I'm a Software Engineer doing Web Development, XR  and Gamedev.
+I'm a Software Engineer doing Big Data, Web Development, XR  and Gamedev.
 
 - 💬 Ask me about VR/AR/XR, Games, Animation, Game Development or the Game Industry.
 - 🔭 I’m currently working on big data, Spark, and streaming.
