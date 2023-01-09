@@ -29,7 +29,7 @@ LinkedIn: https://www.linkedin.com/in/melissaauclaire (feel free to connect with
 -->
 
 ## Socials
-[![Mastodon](https://img.shields.io/badge/Mastodon-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.mastodon.social/@kiyomizumia)
+[![Mastodon](https://img.shields.io/badge/Mastodon-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://mastodon.social/@kiyomizumia)
 [![Twitch](https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kiyomizumia)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kiyomizumia)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kiyomizumia)
