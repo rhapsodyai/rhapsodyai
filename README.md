@@ -38,7 +38,7 @@ LinkedIn: https://www.linkedin.com/in/melissaauclaire (feel free to connect with
 
 
 ## Donate
-If you are financially stable and sound, as many people in this line of work are, please consider donating if you like and want to support my work. All donations will be used toward upkeep and creating more content. 💗
+If you are financially stable and sound, as many people in this line of work are, please consider donating if you like and want to support my work. All donations will be used toward upkeep and creating more content. Thank you for your support! 💗
 
 [![Github Sponsors](https://img.shields.io/badge/Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/rhapsodyai)
 [![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/kiyomizumia)
