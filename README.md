@@ -9,6 +9,19 @@ I'm a Software Engineer doing Big Data, Web Development, XR  and Gamedev.
 - 🌱 I’m currently learning - 3D Modeling and Illustration!
 - 😄 Pronouns: She/her
 
+
+### はじめまして！ 🧚‍♀️👋
+
+ソフトウェア開発者で、現在ビッグデータ、ウェブ開発、XRとゲーム開発をしています。
+
+- 💬 VR/AR/XR, ゲーム, アニメーション, ゲーム開発またはゲーム業界に関する質問を歓迎します。
+- 🔭 現在Rust言語の勉強と新しいFOSSプロジェクトへの貢献を強くご検討しています。今はTwitch上のストリーミングもインディーゲーム開発もしています。
+- 📫 お問い合わせは kiyomizumia@proton.meへ。Mastodonも使用しています！ ハンドルはmastodon.social/@kiyomizumia。
+- 🌱 今勉強しているもの - 3Dモデリングとイラストの描き方
+- 😄 代名詞: 女、彼女
+
+よろしくお願いします！
+
 <!--
 Note: (Currently looking for work!)
 Resume: https://registry.jsonresume.org/rhapsodyai (My online resume)
