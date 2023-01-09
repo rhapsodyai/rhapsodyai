@@ -4,7 +4,7 @@ I'm a Software Engineer doing Big Data, Web Development, XR  and Gamedev.
 
 
 - 💬 Ask me about VR/AR/XR, Games, Animation, Game Development or the Game Industry.
-- 🔭 I’m currently working on big data, Spark, and streaming as well as indie game development.
+- 🔭 I’m currently studying Rust and looking for new FOSS project(s) to contribute to. I also regularly stream on Twitch and am working on an indie game.
 - 📫 How to reach me: My email address is kiyomizumia@proton.me, and my Mastodon handle is mastodon.social/@kiyomizumia.
 - 🌱 I’m currently learning - 3D Modeling and Illustration!
 - 😄 Pronouns: She/her
