@@ -39,7 +39,7 @@ LinkedIn: https://www.linkedin.com/in/melissaauclaire (feel free to connect with
 
 ## Donate
 
-[![Github Sponsors](https://img.shields.io/badge/Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/kiyomizumia)
+[![Github Sponsors](https://img.shields.io/badge/Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/rhapsodyai)
 [![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/kiyomizumia)
 [![Ko-fi](https://img.shields.io/badge/Kofi-Ff5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/rhapsodyai)
 [![Paypal](https://img.shields.io/badge/Paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/melissaauclaire)
