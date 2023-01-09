@@ -41,10 +41,9 @@ LinkedIn: https://www.linkedin.com/in/melissaauclaire (feel free to connect with
 
 [![Github Sponsors](https://img.shields.io/badge/Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/kiyomizumia)
 [![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/kiyomizumia)
-<!-- [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/rhapsodyai) -->
 [![Ko-fi](https://img.shields.io/badge/Kofi-Ff5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/rhapsodyai)
 [![Paypal](https://img.shields.io/badge/Paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/melissaauclaire)
-
+<!-- [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/rhapsodyai) -->
 
 <!--
 **rhapsodyai/rhapsodyai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
