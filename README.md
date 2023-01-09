@@ -10,7 +10,7 @@ I'm a Software Engineer doing Big Data, Web Development, XR  and Gamedev.
 - 😄 Pronouns: She/her
 
 
-### はじめまして！ 🧚‍♀️👋
+### はじめまして 🧚‍♀️👋
 
 ソフトウェア開発者で、現在ビッグデータ、ウェブ開発、XRとゲーム開発をしています。
 
@@ -20,7 +20,7 @@ I'm a Software Engineer doing Big Data, Web Development, XR  and Gamedev.
 - 🌱 今勉強しているもの - 3Dモデリングとイラストの描き方
 - 😄 代名詞: 女、彼女
 
-よろしくお願いします！
+よろしくお願いします。
 
 <!--
 Note: (Currently looking for work!)
