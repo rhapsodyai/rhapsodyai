@@ -15,7 +15,7 @@ I'm a Software Engineer doing Big Data, Web Development, XR  and Gamedev.
 ソフトウェア開発者で、現在ビッグデータ、ウェブ開発、XRとゲーム開発をしています。
 
 - 💬 VR/AR/XR, ゲーム, アニメーション, ゲーム開発またはゲーム業界に関する質問を歓迎します。
-- 🔭 現在Rust言語の勉強をしています。またTwitch上のストリーミングもインディーゲームの開発もしています。
+- 🔭 現在Rust言語の勉強をしています。またTwitchのストリーミングもインディーゲームの開発もしています。
 - 📫 お問い合わせは kiyomizumia@proton.meへ。Mastodonも使用しています！ ハンドルはmastodon.social/@kiyomizumia。
 - 🌱 今勉強しているもの - 3Dモデリングとイラストの描き方
 - 😄 代名詞: 女、彼女
