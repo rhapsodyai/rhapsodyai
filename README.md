@@ -5,7 +5,7 @@ I'm a Software Engineer doing Big Data, Web Development, XR  and Gamedev.
 
 - 💬 Ask me about VR/AR/XR, Games, Animation, Game Development or the Game Industry.
 - 🔭 I’m currently studying Rust. I also regularly stream on Twitch and am currently developing an indie game.
-- 📫 How to reach me: My email address is kiyomizumia@proton.me, and my Mastodon handle is mastodon.social/@kiyomizumia.
+- 📫 How to reach me: My email address is melissa@melissa.pink, and my Mastodon handle is mastodon.social/@kiyomizumia.
 - 🌱 I’m currently learning - 3D Modeling and Illustration!
 - 😄 Pronouns: She/her
 
@@ -16,7 +16,7 @@ I'm a Software Engineer doing Big Data, Web Development, XR  and Gamedev.
 
 - 💬 VR/AR/XR, ゲーム, アニメーション, ゲーム開発またはゲーム業界に関する質問を歓迎します。
 - 🔭 現在Rust言語の勉強をしています。またTwitchのストリーミングもインディーゲームの開発もしています。
-- 📫 お問い合わせは kiyomizumia@proton.meへ。Mastodonも使用しています！ ハンドルはmastodon.social/@kiyomizumia。
+- 📫 お問い合わせは melissa@melissa.pinkへ。Mastodonも使用しています！ ハンドルはmastodon.social/@kiyomizumia。
 - 🌱 今勉強しているもの - 3Dモデリングとイラストの描き方
 - 😄 代名詞: 女、彼女
 
