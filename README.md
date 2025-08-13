@@ -22,8 +22,8 @@ I'm a Software Engineer doing Big Data, Web Development, XR  and Gamedev.
 
 
 Note: (Currently looking for work!)
-Resume: https://registry.jsonresume.org/rhapsodyai (My online resume)
-LinkedIn: https://www.linkedin.com/in/melissaauclaire (feel free to connect with me though I'm more likely to respond if I know you)
+- Resume: https://registry.jsonresume.org/rhapsodyai (My online resume)
+- LinkedIn: https://www.linkedin.com/in/melissaauclaire (feel free to connect with me though I'm more likely to respond if I know you)
 
 <!--
 Note: (Currently looking for work!)
@@ -35,8 +35,9 @@ LinkedIn: https://www.linkedin.com/in/melissaauclaire (feel free to connect with
 Please feel free to explore my (sometimes work unrelated) social media accounts.
 
 <!-- [![Mastodon](https://img.shields.io/badge/Mastodon-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://mastodon.social/@rhapsodyai) -->
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rhapsodyai)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rhapsodyai) -->
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rhapsodyai)
+
 
 
 ## Donate
@@ -52,5 +53,5 @@ If you are financially stable and sound (as many people in this line of work are
 **rhapsodyai/rhapsodyai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
 -->
